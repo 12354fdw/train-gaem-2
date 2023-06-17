@@ -16,6 +16,18 @@
         "tilemapTile": true,
         "displayName": "RailDOWN"
     },
+    "tile3": {
+        "data": "hwQQABAAAAC7u7HLvBu7u7u7scu8G7u7u7uxy7wbu7u7u7HLvBu7u7u7scu8G7u7u7uxy7wbu7u7u7HMzBu7u7u7sRzBG7u7u7uxwRwbu7u7u7HMzBu7u7u7scu8G7u7u7uxy7wbu7u7u7HLvBu7u7u7scu8G7u7u7uxy7wbu7u7u7HLvBu7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RailLEFT0"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAC7u7HLvBu7u7u7scu8G7u7u7uxy7wbu7u7u7HLvBu7u7u7scu8G7u7u7uxy7wbu7u7u7HMzBu7u7u7scEcG7u7u7uxHMEbu7u7u7HMzBu7u7u7scu8G7u7u7uxy7wbu7u7u7HLvBu7u7u7scu8G7u7u7uxy7wbu7u7u7HLvBu7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RailRIGHT"
+    },
     "level1": {
         "id": "level1",
         "mimeType": "application/mkcd-tilemap",
@@ -23,7 +35,9 @@
         "tileset": [
             "myTiles.transparency16",
             "myTiles.tile2",
-            "myTiles.tile1"
+            "myTiles.tile1",
+            "myTiles.tile3",
+            "myTiles.tile4"
         ],
         "displayName": "level1"
     },
