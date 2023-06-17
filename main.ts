@@ -1,1 +1,1 @@
-tiles.loadMap(tiles.createMap(tilemap`level1`))
+tiles.loadMap(tiles.createMap(tilemap`Template`))
